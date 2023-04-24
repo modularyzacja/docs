@@ -10,6 +10,8 @@ Dokumentacja projektu: Modularyzacja.pl
   
     Standaryzacja -> Modularyzacja -> Automatyzacja
 
++ [Modularity - Wikipedia](https://en.wikipedia.org/wiki/Modularity)
+
 ## Wstęp
 
 Modularyzacja znajduje się pomiędzy standaryzacją a automatyzacją.
